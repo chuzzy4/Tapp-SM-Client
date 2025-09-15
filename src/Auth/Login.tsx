@@ -4,7 +4,7 @@ import useAuthStore from "../store/authStore";
 import OtpVerification from "./Otp";
 import { toast } from "react-toastify";
 import logo from "../assets/images/logo.svg";
-import gp from "../assets/images/gp.svg";
+import gp from "../assets/images/otp.svg";
 
 const TapInLogin: React.FC = () => {
   const [email, setEmail] = useState("");
