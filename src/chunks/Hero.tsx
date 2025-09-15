@@ -52,7 +52,7 @@ export default function Hero() {
 
           {/* CTA Button */}
           <button className="bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white px-6 py-4 rounded-full text-lg font-light transition-all duration-300 mb-16 shadow-lg hover:shadow-orange-500/25">
-            Get Your Tapp Card!
+            Request a Card
           </button>
         </div>
       </main>
